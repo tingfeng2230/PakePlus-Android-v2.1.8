@@ -1,0 +1,21 @@
+{
+  "name": "防汛抗旱应急指挥",
+  "short_name": "防汛指挥",
+  "description": "防汛抗旱应急指挥平台",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#3b82f6",
+  "icons": [
+    {
+      "src": "/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "permissions": {
+    "geolocation": {
+      "description": "需要获取您的位置信息用于险情上报"
+    }
+  }
+}
